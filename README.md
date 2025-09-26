@@ -22,6 +22,12 @@ Read the UML diagram and implement it in **Java** using encapsulation and overlo
 Write a short paragraph (5–8 sentences) in English:  
 👉 *How did you apply your own learning strategies to solve this exam? Mention one difficulty and how you solved it.*
 
+## The tools used, in my case, were audiovisual aids. In my case, YouTube was the one that
+## helped me understand a little more about the things covered in class. It also helped me understand code cases.
+## Also, although AI sounds a little bad, thanks to her voice, she explained how some things about getters and setters worked, 
+## as well as constructors. In my case, I used most of the help through videos,
+## which helped me understand it.
+
 ---
 
 ## Evaluation Criteria
